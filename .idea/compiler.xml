@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="nacos-sentinel-dashboard" />
+        <module name="nacos-discovery-server" />
+        <module name="springcloud-gateway" />
+        <module name="nacos-dubbo-server" />
+        <module name="nacos-dubbo-client" />
+        <module name="cache-service" />
+        <module name="nacos-config" />
+        <module name="sentinel-dashboard" />
+        <module name="springcloud-kafka-consumer" />
+        <module name="nacos-discovery-client" />
+        <module name="nacos-dubbo-api" />
+        <module name="cache-springboot" />
+        <module name="spingcloud-kafka" />
+        <module name="nacos-config-db" />
+        <module name="spingcloud-kafka-producer" />
+        <module name="distributed-lock" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="cache-service" target="1.8" />
+      <module name="eureka-server" target="1.8" />
+      <module name="kafka-flink" target="1.8" />
+      <module name="nacos-config-mysql" target="1.8" />
+      <module name="nacos-discovery" target="1.8" />
+      <module name="sentinel-nacos-dashboard" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="cache-service" options="-parameters" />
+      <module name="cache-springboot" options="-parameters" />
+      <module name="distributed-lock" options="-parameters" />
+      <module name="eureka-server" options="" />
+      <module name="kafka-flink" options="-parameters" />
+      <module name="nacos-config" options="-parameters" />
+      <module name="nacos-config-db" options="-parameters" />
+      <module name="nacos-config-mysql" options="-parameters" />
+      <module name="nacos-discovery" options="-parameters" />
+      <module name="nacos-discovery-client" options="-parameters" />
+      <module name="nacos-discovery-server" options="-parameters" />
+      <module name="nacos-dubbo-api" options="-parameters" />
+      <module name="nacos-dubbo-client" options="-parameters" />
+      <module name="nacos-dubbo-server" options="-parameters" />
+      <module name="nacos-sentinel-dashboard" options="-parameters" />
+      <module name="sentinel-dashboard" options="-parameters" />
+      <module name="sentinel-nacos-dashboard" options="-parameters" />
+      <module name="spingcloud-kafka" options="-parameters" />
+      <module name="spingcloud-kafka-producer" options="-parameters" />
+      <module name="springcloud-gateway" options="-parameters" />
+      <module name="springcloud-kafka-consumer" options="-parameters" />
+      <module name="sunshine" options="" />
+    </option>
+  </component>
+</project>

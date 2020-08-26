@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cache-springboot/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/distributed-lock/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nacos-config" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nacos-config-db" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nacos-config-db/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nacos-config/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nacos-discovery-client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nacos-discovery-client/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nacos-discovery-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nacos-discovery-server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nacos-dubbo-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nacos-dubbo-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nacos-dubbo-client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nacos-dubbo-client/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nacos-dubbo-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nacos-dubbo-server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nacos-sentinel-dashboard" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nacos-sentinel-dashboard/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sentinel-dashboard" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sentinel-dashboard/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spingcloud-kafka-producer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spingcloud-kafka-producer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud-gateway" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud-gateway/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud-kafka-consumer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud-kafka-consumer/src/main/java" charset="UTF-8" />
+  </component>
+</project>
