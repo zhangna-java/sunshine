@@ -31,6 +31,7 @@
         <module>cache-springboot</module>
         <module>distributed-lock</module>
         <module>tidb-binlog</module>
+        <module>algorithm</module>
     </modules>
 
     <properties>
